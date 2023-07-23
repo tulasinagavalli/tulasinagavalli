@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 
 <!--
 **tulasinagavalli/tulasinagavalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tulasi, and I currently pursuing my bachelor's in computer applications 💻.
+
+- 🔭 I’m currently working on React and advanced web development
+- 🌱 I’m currently learning Python
+- 📫 Reach me at [tulasinagavalli.talla@gmail.com](mailto:tulasinagavalli.talla@gmail.com)
